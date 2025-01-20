@@ -1,0 +1,7 @@
+C:\Users\MTL1018\Documents\.NetCore\WebApplication1\bin\publish\WebApplication1.exe
+C:\Users\MTL1018\Documents\.NetCore\WebApplication1\bin\publish\appsettings.Development.json
+C:\Users\MTL1018\Documents\.NetCore\WebApplication1\bin\publish\appsettings.json
+C:\Users\MTL1018\Documents\.NetCore\WebApplication1\bin\publish\WebApplication1.dll
+C:\Users\MTL1018\Documents\.NetCore\WebApplication1\bin\publish\WebApplication1.deps.json
+C:\Users\MTL1018\Documents\.NetCore\WebApplication1\bin\publish\WebApplication1.runtimeconfig.json
+C:\Users\MTL1018\Documents\.NetCore\WebApplication1\bin\publish\WebApplication1.pdb
